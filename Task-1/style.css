@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.first{
+    margin-top: 0%;
+    width: auto;
+    height: auto;
+    background-color: #293241;
+}
+.img1{
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+    
+}
+.line1{
+    margin-top: 60px;
+    margin-left: 0%;
+    color: white;
+}
+.line2{
+    margin-top: 10px;
+    margin-left: 0%;
+    color: white;
+}
+.line3{
+    width: 150px;
+    height: 35px;
+    font-size: 300px;
+}
+.second{
+    margin-top: 0px;
+    width: auto;
+    height: auto;
+    background-color: #293241;
+}
+.img2{
+    width: 300px;
+    height: 280px;
+    margin-top: 10px;
+}
+.line4{
+    margin-top: 50px;
+    margin-left: 0%;
+    color: white;
+}
+.line5{
+    margin-top: 10px;
+    margin-left: 0%;
+    color: white;
+}
+.line6{
+    width: 150px;
+    height: 35px;
+    font-size: 300px;
+    margin-left: 0%;
+}
+.third{
+    margin-top: 0px;
+    width: auto;
+    height: auto;
+    background-color: #293241;
+}
+.img3{
+    width: 320px;
+    height: 250px;
+    margin-top: 30px;
+}
+.line7{
+    margin-top: 80px;
+    margin-left: 0%;
+    color: white;
+}
+.line8{
+    margin-top: 10px;
+    margin-left: 0%;
+    color: white;
+}
+.line9{
+    width: 150px;
+    height: 35px;
+    font-size: 300px;
+}
+.winos{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+}
+.logo{
+    position: absolute;
+    width: 30px;
+    height: 30px;  
+}
+.logoname{
+    position: absolute;
+    color: #EA3D3D;
+    font-size: 25px;
+   margin-left: 40px;
+   font-family: Rockwell;
+}
+.lap{
+    
+    height: 400px;
+}
+.one{
+    color: #293241;
+    font-size: 70px;
+    font-family: Oswald;
+}
+.two{
+    color: #293241;
+    font-size: 20px;
+    font-family: Dosis;
+    letter-spacing: 3px;
+}
+.three{
+    background-color: #007f5f;
+    padding: 7px;
+    color: white;
+    border-radius: 25px;
+    border: #007f5f;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.four{
+    margin-top: 15px;
+    color: #293241;
+    font-weight: bold;
+}
+.banner{
+    position: absolute;
+    width: 98.2%;
+    height: 400px;
+}
+.dock{
+    position:absolute;
+}
+
+.lock{
+        width: 150px;
+        height: 150px;
+        margin-left: 100px;
+        background-color: #293241;
+        border-radius: 25px;
+}
+.world{
+         width: 150px;
+        height: 150px;
+        margin-left: 100px;
+        background-color: #293241;
+        border-radius: 25px;
+}
+.speed{
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+    background-color: #293241;
+    border-radius: 25px;
+}
+.final{
+    width: 30px;
+    border: 1px solid whitesmoke;
+    border-radius: 50px;
+    box-shadow: 2px 3px 3px 1px whitesmoke;
+}
+.footer{
+    position: absolute;
+    height: 500px;
+    background-color: #293241;
+}
+.count{
+    position: absolute;
+    color: white;
+    margin-top: 200px;
+}
+.globe{
+    position: relative;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: poppins;
+
+}
+.anchortag{
+    position: relative;
+    margin-top: 350px;
+    text-align: center;
+}
+h3{
+    text-align: start;
+    font-family: poppins;   
+}
+p{
+    font-weight: 200;
+}
